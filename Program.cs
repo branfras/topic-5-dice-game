@@ -6,6 +6,7 @@ namespace topic_5_dice_game
     {
         static void Main(string[] args)
         {
+            //Brandon Fraser
             Random generator = new Random();
             int die1;
             int die2;
